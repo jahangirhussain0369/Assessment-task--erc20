@@ -16,6 +16,12 @@ This repository includes two distinct tasks:
 
 
 Try running some of the following tasks:
+
+ Clone the Repo
+```shell
+git clone https://github.com/jahangirhussain0369/Assessment-task--erc20
+
+```
  To Build the smart contract
 ```shell
 npx hardhat compile
