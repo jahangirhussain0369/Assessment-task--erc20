@@ -10,7 +10,29 @@ This repository includes two distinct tasks:
 
 <img width="1676" alt="image" src="https://github.com/user-attachments/assets/39e10751-65ee-4556-8cb1-59fd1d51aa4a" />
 
+Try running some of the following tasks:
+ To Build the smart contract
+```shell
+npx hardhat compile
 
+```
+
+To Deploy the smart contract
+```shell
+
+npx hardhat run scripts/deploy.js --network <network-name>
+
+```
+Testing the smart contract 
+
+```shell
+
+npx hardhat run scripts/checkbalance.js --network <network-name>
+
+npx hardhat run scripts/mint.js --network <network-name>
+
+npx hardhat run scripts/transfer.js --network <network-name>
+```
 
 
 ```shell
