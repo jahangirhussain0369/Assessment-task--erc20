@@ -13,32 +13,6 @@ This repository includes two distinct tasks:
 
 
 
-
-Try running some of the following tasks:
- To Build the smart contract
-```shell
-npx hardhat compile
-
-```
-
-To Deploy the smart contract
-```shell
-
-npx hardhat run scripts/deploy.js --network <network-name>
-
-```
-Testing the smart contract 
-
-```shell
-
-npx hardhat run scripts/checkbalance.js --network <network-name>
-
-npx hardhat run scripts/mint.js --network <network-name>
-
-npx hardhat run scripts/transfer.js --network <network-name>
-```
-# Deploy the FrontEnd
-
 ```shell
 
 git clone https://github.com/AMIRucp/ERC-20-Dapp.git
