@@ -8,7 +8,12 @@ This repository includes two distinct tasks:
 
 
 
+
+
 <img width="1676" alt="image" src="https://github.com/user-attachments/assets/39e10751-65ee-4556-8cb1-59fd1d51aa4a" />
+
+
+
 
 Try running some of the following tasks:
  To Build the smart contract
