@@ -48,7 +48,7 @@ npx hardhat run scripts/transfer.js --network <network-name>
 
 ```shell
 
-git clone https://github.com/AMIRucp/ERC-20-Dapp.git
+git clone https://github.com/jahangirhussain0369/Assessment-task--erc20
 
 cd frontend
 
