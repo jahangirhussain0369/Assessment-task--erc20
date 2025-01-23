@@ -58,11 +58,13 @@ Fill in the token contract address.
 Enter the wallet address whose balance you want to check.
 The DApp will display the balance for the specified wallet.
 Note: This feature works only for Sepolia testnet contracts.
-2. Transfer Tokens to Another Address:
+
+3. Transfer Tokens to Another Address:
 You can transfer your tokens to any valid Ethereum address:
 Enter the recipient’s wallet address.
 Specify the amount of tokens to transfer.
 Click the "Transfer" button to send tokens from your connected wallet to the recipient’s wallet.
 Confirm the transaction in MetaMask.
-3. Transaction History:
+
+5. Transaction History:
 Click on the "History" button to view the latest 5 transactions of the selected token.
