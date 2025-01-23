@@ -53,23 +53,20 @@ npm start
 # How to Use the ERC-20 DApp
 
 Connect Your Wallet (MetaMask):
-
-Open your browser and ensure you have the MetaMask extension installed.
+Open your browser and ensure the MetaMask extension is installed.
 Click the "Connect Wallet" button on the DApp interface and select MetaMask.
 Approve the connection in your MetaMask wallet.
-1) Check Your Token Balance:
-
-Once your wallet is connected, you can view your ERC-20 token balance.
-The balance will be displayed on the DApp interface.
-
-2) Mint New Tokens (Owner Only):
-
-Only the contract owner can mint new tokens.
-If you're the owner, you can mint new tokens to another address by entering the recipient's wallet address and the amount of tokens to mint.
-Click the "Mint" button to mint the tokens.
-
-3) Transfer Tokens to Another Address:
-
-You can transfer your tokens to any valid Ethereum address.
-Enter the recipient’s address and the amount of tokens to transfer, then click the "Transfer" button.
-Confirm the transaction in MetaMask
+Features:
+1. Check Token Balance:
+Fill in the token contract address.
+Enter the wallet address whose balance you want to check.
+The DApp will display the balance for the specified wallet.
+Note: This feature works only for Sepolia testnet contracts.
+2. Transfer Tokens to Another Address:
+You can transfer your tokens to any valid Ethereum address:
+Enter the recipient’s wallet address.
+Specify the amount of tokens to transfer.
+Click the "Transfer" button to send tokens from your connected wallet to the recipient’s wallet.
+Confirm the transaction in MetaMask.
+3. Transaction History:
+Click on the "History" button to view the latest 5 transactions of the selected token.
