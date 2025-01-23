@@ -1,11 +1,15 @@
 # MyToken Smart Contract
 
-This smart contract implements an ERC-20 token with additional features such as burning, pausing transfers, minting new tokens, and setting a token URI. It inherits from OpenZeppelin’s ERC-20, ERC-20Burnable, ERC-20Pausable, ERC-20Permit, and Ownable contracts.
+This repository includes two distinct tasks:
+
+1.ERC20 Token Transfers: Enables transferring ERC20 tokens from your connected wallet to another wallet.
+
+2.Check Token Balance: Allows checking the balance of any Sepolia testnet token contract for any specified wallet.
 
 
 
+<img width="1676" alt="image" src="https://github.com/user-attachments/assets/39e10751-65ee-4556-8cb1-59fd1d51aa4a" />
 
-<img width="1665" alt="image" src="https://github.com/user-attachments/assets/73848f8f-2bdd-4111-b69e-21da1c8deee4">
 
 
 
